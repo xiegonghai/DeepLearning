@@ -3,9 +3,11 @@ dependencies:
   - pip:
     - scipy
     - numpy
+    - PIL
     - scikit-learn
     - matplotlib
     - pandas
     - h5py
     - spacy
     - ipykernel
+    
