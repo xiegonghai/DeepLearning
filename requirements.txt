@@ -2,5 +2,5 @@ numpy
 matplotlib
 h5py
 scipy
-PIL
+pillow
 scipy
